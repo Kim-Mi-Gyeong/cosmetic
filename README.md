@@ -55,7 +55,6 @@
 # ■ Stacks 🛠️
 <div style="text-align: left;">
 <h3> ▪ Environment</h3>
-<br>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 <img src="https://img.shields.io/badge/visual studio code-008FC7?style=for-the-badge&logo=visual studio code&logoColor=white">
 <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
@@ -166,6 +165,6 @@
   1. 웹 서버 접속 : http://127.0.0.1:5000
   2. 성분 입력 or Chatbot 성분 검색 ex) 토코페롤, 리모넨, 판테놀
   3. 추천 결과 보기 선택 or 초기화
-  4. 검색 성능 지료, 평균 유사도 및 성분 분포 차트 확인(선택사항)
+  4. 검색 성능 지표, 평균 유사도 및 성분 분포 차트 확인(선택사항)
 
 
